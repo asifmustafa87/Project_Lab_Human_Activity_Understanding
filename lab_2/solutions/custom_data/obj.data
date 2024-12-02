@@ -1,0 +1,4 @@
+classes = 6
+train = /home/student/HK-HAU/Lab2/darknet/custom_data/train.txt
+names = /home/student/HK-HAU/Lab2/darknet/custom_data/obj.names
+backup = backup/

@@ -1,0 +1,13 @@
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0000.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0153.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0303.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0327.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0410.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0711.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0800.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left0843.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left1043.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left1125.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left1226.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left1502.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/left1687.jpg
